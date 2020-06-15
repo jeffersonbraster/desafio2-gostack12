@@ -14,7 +14,6 @@ Segundo desafio em node.js do desafio do bootcamp gostack12, da rocketseat.
 ### Technologies
 
 <ul>
-    <li></li>
     <li>NodeJs</li>  
 </ul>
 
@@ -23,7 +22,9 @@ Segundo desafio em node.js do desafio do bootcamp gostack12, da rocketseat.
 Clone Project
 
 ```git
-git clone https://github.com/jeffersonbraster/desafio2-gostack12
+git clone https://github.com/jeffersonbraster/desafio2-gostack12.git
+```
+
 
 
 ## Author
@@ -32,7 +33,7 @@ Jefferson Brandão de Oliveira - [GitHub](https://github.com/jeffersonbraster) /
 
 ## License
 
-This project use MIT license.
+This project use MIT license, see the file [LICENSE](.github/LICENSE.md) for more details
 
 ---
 
